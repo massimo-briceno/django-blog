@@ -4,7 +4,7 @@ This is a Web Blogging app developed using the Django framework. It runs locally
 
 ## 📚 Project Description
 
-Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commenti e utenti per un blog online. Include funzionalità per la pubblicazione, la visualizzazione e la gestione dei contenuti del blog. It covers the following Django concepts:
+It covers the following Django concepts:
 
 1. Basics:
    - Setup and understand a django project;
