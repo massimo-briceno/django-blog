@@ -1,8 +1,8 @@
-# Django Blog
+# 🌟 Django Blog
 
 This is a Web Blogging app developed using the Django framework. It runs locally.
 
-## Project Description
+## 📚 Project Description
 
 Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commenti e utenti per un blog online. Include funzionalità per la pubblicazione, la visualizzazione e la gestione dei contenuti del blog. It covers the following Django concepts:
 
@@ -22,19 +22,19 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
    2. Frontend & Admin
    3. Deploy
 
-<!-- ## Principal functionalities
+<!-- ## 🚀  Principal functionalities
 
 - Creation, modification and articles elimination
 - Gestione dei commenti sugli articoli
 - Autenticazione degli utenti per l'accesso e la gestione dei contenuti -->
 
-## Requiremnets
+## 💻 Requiremnets
 
 - Python (versione 3.12.1)
 - Django (5.0.1)
 - Other specific requirements...
 
-## Installing
+## 🛠️ Installing
 
 1. Clone the repository:
 
@@ -45,7 +45,7 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
 2. Go to project's directory:
 
    ```bash
-   cd nome-progetto
+   cd django-blog
    ```
 
 3. Create a virtual environment (optional but suggested):
@@ -76,7 +76,7 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
 
 7. Visit `http://localhost:8000` on your browser to visualize the blog.
 
-## Autore
+## 👨‍💻 Autore
 
 - Name: Massimo Briceno
 - Contact: massimobriceno@gmail.com
