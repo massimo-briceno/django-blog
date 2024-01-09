@@ -6,21 +6,21 @@ This is a Web Blogging app developed using the Django framework. It runs locally
 
 Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commenti e utenti per un blog online. Include funzionalità per la pubblicazione, la visualizzazione e la gestione dei contenuti del blog. It covers the following Django concepts:
 
-1. <span style ="color:pink">Basics:</span>
-   1. Setup and understand a django project;
-   2. URLs, Routes & Views
-   3. Templates and Static files
-   4. Data, Models & Relationships
-2. <span style ="color:pink">Beyond Basics</span>
-   1. Forms & User Input
-   2. Class-based Views
-   3. File Uploads & Storage in different ways
-   4. Sessions
-3. <span style ="color:pink">UI & Deploy</span>
+1. Basics:
+   - Setup and understand a django project;
+   - URLs, Routes & Views
+   - Templates and Static files
+   - Data, Models & Relationships
+2. Beyond Basics
+   - Forms & User Input
+   - Class-based Views
+   - File Uploads & Storage in different ways
+   - Sessions
+3. UI & Deploy
 
-   1. Simple web UI
-   2. Frontend & Admin
-   3. Deploy
+   - Simple web UI
+   - Frontend & Admin
+   - Deployment
 
 <!-- ## 🚀  Principal functionalities
 
@@ -28,13 +28,13 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
 - Gestione dei commenti sugli articoli
 - Autenticazione degli utenti per l'accesso e la gestione dei contenuti -->
 
-## 💻 Requiremnets
+## 💻 Requirements
 
 - Python (versione 3.12.1)
 - Django (5.0.1)
 - Other specific requirements...
 
-## 🛠️ Installing
+## 🛠️ Instalation
 
 1. Clone the repository:
 
@@ -52,8 +52,8 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
 
    ```bash
    python -m venv myenv
-   source myenv/bin/activate  # Per Linux/Mac
-   .\myenv\Scripts\activate   # Per Windows
+   source myenv/bin/activate  # For Linux/Mac
+   .\myenv\Scripts\activate   # For Windows
    ```
 
 4. Install dependencies from requirements file:
