@@ -76,7 +76,7 @@ Il progetto Django Blog offre un'interfaccia per la gestione di articoli, commen
 
 7. Visit `http://localhost:8000` on your browser to visualize the blog.
 
-## 👨‍💻 Autore
+## 👨‍💻 Author
 
 - Name: Massimo Briceno
 - Contact: massimobriceno@gmail.com
